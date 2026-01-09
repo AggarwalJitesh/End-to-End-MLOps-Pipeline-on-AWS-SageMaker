@@ -9,7 +9,8 @@ That means:
 4. Integrating it into an application (via Lambda + API Gateway).
 5. Monitoring its performance and health with CloudWatch.
 
- As a MLOps engineers and cloud solution architects do i am productionize AI so it’s reliable, repeatable, and scalab
+ As a MLOps engineers and cloud solution architects do i am productionize AI so it’s reliable, repeatable, and scalable
+ 
 
  # Titanic Survival Prediction with AWS SageMaker
 This project predicts Titanic passenger survival using AWS SageMaker.
